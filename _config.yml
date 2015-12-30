@@ -1,0 +1,28 @@
+name: akramdhane
+favicon: null
+layout_spectrum: 0.37652186024934053
+typography_spectrum: 0.06856894656084478
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8605571535881609
+  lightness: 0.8479245249181986
+  saturation: 0.20260379021055996
+  rhythmicContrast: 0.18071060348302126
+purpose: []
